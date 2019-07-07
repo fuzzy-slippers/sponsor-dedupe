@@ -1,1 +1,3 @@
 # sponsor-dedupe
+
+using csvdedupe to deduplicate a public sponsor list...
